@@ -1,0 +1,90 @@
+/* ==========
+   基本默认值
+   ========== */
+body {
+	height: 100%;
+	position: relative;
+    font-size: 0.16rem;
+    background-color:#edf1f2;
+	box-sizing: border-box;
+}
+
+/*html {
+   height: 100%;
+   }*/
+
+ul,p,h1,h2,h3,section,nav,div{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+    box-sizing: border-box;
+}
+
+a {
+	color: #000000;
+	text-decoration:none;
+}
+
+
+/* ==========
+   工具样式
+   ========== */
+
+.f-r {
+    float: right !important;
+}
+
+.f-l {
+    float: left !important;
+}
+
+.t-r {
+    text-align: right !important;
+}
+
+.t-l {
+    text-align: left !important;
+}
+
+.t-c {
+    text-align: center !important;
+}
+
+.hide {
+    display: none !important;
+}
+
+.show {
+    display: block !important;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.t-h {
+    font: 0/0 a;
+    color: transparent;
+    text-shadow: none;
+    background-color: transparent;
+    border: 0;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+
+
+
+

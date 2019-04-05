@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'blogIcon';
+  src:  url('fonts/blogIcon.eot?dial32');
+  src:  url('fonts/blogIcon.eot?dial32#iefix') format('embedded-opentype'),
+    url('fonts/blogIcon.ttf?dial32') format('truetype'),
+    url('fonts/blogIcon.woff?dial32') format('woff'),
+    url('fonts/blogIcon.svg?dial32#blogIcon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="blog-"], [class*=" blog-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'blogIcon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.blog-right-circle-fill:before {
+  content: "\e919";
+}
+.blog-up-circle-fill:before {
+  content: "\e91a";
+}
+.blog-interactive_fill:before {
+  content: "\e916";
+}
+.blog-label_fill:before {
+  content: "\e917";
+}
+.blog-other:before {
+  content: "\e918";
+}
+.blog-offline:before {
+  content: "\e915";
+}
+.blog-uniE914:before {
+  content: "\e914";
+}
+.blog-accessory:before {
+  content: "\e900";
+}
+.blog-add:before {
+  content: "\e901";
+}
+.blog-addition:before {
+  content: "\e902";
+}
+.blog-addpeople_fill:before {
+  content: "\e903";
+}
+.blog-businesscard_fill:before {
+  content: "\e904";
+}
+.blog-createtask_fill:before {
+  content: "\e905";
+}
+.blog-delete_fill:before {
+  content: "\e906";
+}
+.blog-homepage_fill:before {
+  content: "\e907";
+}
+.blog-mail_fill:before {
+  content: "\e908";
+}
+.blog-message:before {
+  content: "\e909";
+}
+.blog-mine_fill:before {
+  content: "\e90a";
+}
+.blog-people_fill:before {
+  content: "\e90b";
+}
+.blog-picture_fill:before {
+  content: "\e90c";
+}
+.blog-praise_fill:before {
+  content: "\e90d";
+}
+.blog-search:before {
+  content: "\e90e";
+}
+.blog-setup_fill:before {
+  content: "\e90f";
+}
+.blog-share_fill:before {
+  content: "\e910";
+}
+.blog-edit:before {
+  content: "\e911";
+}
+.blog-1:before {
+  content: "\e912";
+}
+.blog-uniE913:before {
+  content: "\e913";
+}
